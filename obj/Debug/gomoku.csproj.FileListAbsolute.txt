@@ -1,0 +1,10 @@
+C:\Users\oxox3\source\repos\gomoku\gomoku\bin\Debug\gomoku.exe.config
+C:\Users\oxox3\source\repos\gomoku\gomoku\bin\Debug\gomoku.exe
+C:\Users\oxox3\source\repos\gomoku\gomoku\bin\Debug\gomoku.pdb
+C:\Users\oxox3\source\repos\gomoku\gomoku\obj\Debug\gomoku.csproj.AssemblyReference.cache
+C:\Users\oxox3\source\repos\gomoku\gomoku\obj\Debug\gomoku.Properties.Resources.resources
+C:\Users\oxox3\source\repos\gomoku\gomoku\obj\Debug\gomoku.csproj.GenerateResource.cache
+C:\Users\oxox3\source\repos\gomoku\gomoku\obj\Debug\gomoku.csproj.CoreCompileInputs.cache
+C:\Users\oxox3\source\repos\gomoku\gomoku\obj\Debug\gomoku.exe
+C:\Users\oxox3\source\repos\gomoku\gomoku\obj\Debug\gomoku.pdb
+C:\Users\oxox3\source\repos\gomoku\gomoku\obj\Debug\gomoku.Form1.resources
